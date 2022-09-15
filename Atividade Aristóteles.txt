@@ -9,4 +9,6 @@ Informe quem ficou em 1º, 2º e 3º lugar em cada disciplina.
 
 Resposta.:
 
-Aristóteles ficou em primeiro lugar em Física, Sócrates em Química e Platão em Matemática.
+Aristóteles ficou em primeiro lugar em Física, segundo em Química e terceioro em matemática.
+Sócrates ficou em primeiro lugar em Química, segundo em Matemática e terceiro em Física.
+Platão ficou em primeiro lugar em Matemática, segundo em Física e terceiro em Química.
