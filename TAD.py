@@ -27,6 +27,4 @@ def funcao():
 
         print ("\n\n")
 
-
-
 funcao();
